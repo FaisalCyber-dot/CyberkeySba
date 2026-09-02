@@ -1,6 +1,6 @@
 {
   "key": "tyiuytdcvhjjj",
-  "KeySystemSite": "https://linksgo.in/UZSh", 
+  "KeySystemSite": "https://go.linkify.ru/2JgY", 
   "status": "active",
   "version": "1.0"
 }
