@@ -1,5 +1,5 @@
 {
-  "key": "tyiuytdcvhjjj",
+  "key": "hshhsjs$hdjejhd",
   "KeySystemSite": "https://go.linkify.ru/2JgY", 
   "status": "active",
   "version": "1.0"
