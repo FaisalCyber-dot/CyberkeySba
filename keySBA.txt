@@ -1,6 +1,6 @@
 {
-  "key": "vgjuysvvsfr",
-  "KeySystemSite": "https://go.linkify.ru/2K9h",
+  "key": "bzbbsvvyhsh",
+  "KeySystemSite": "https://go.linkify.ru/2KBj",
   "TutorialUrl": "https://youtu.be/DYAsf8QZUhA?si=hhUEWbjQiC3WqvoE",
   "status": "active",
   "version": "1.0"
