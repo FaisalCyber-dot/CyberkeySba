@@ -1,6 +1,6 @@
 {
   "key": "bzbbsvvyhsh",
-  "KeySystemSite": "https://earnlinks.in/1XpBO",
+  "KeySystemSite": "https://lootdest.org/s?TUiOOkCE",
   "TutorialUrl": "https://youtu.be/DYAsf8QZUhA?si=hhUEWbjQiC3WqvoE",
   "status": "active",
   "version": "1.0"
