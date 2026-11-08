@@ -1,7 +1,7 @@
 {
   "key": "vftsubvsb",
   "KeySystemSite": "https://lootdest.org/s?pjQ2CEhp",
-  "TutorialUrl": "https://youtu.be/DYAsf8QZUhA?si=hhUEWbjQiC3WqvoE",
+  "TutorialUrl": "https://youtu.be/jcz3Q6ZHddE?si=KCFsKt6nRoj1_JSt",
   "status": "active",
   "version": "1.0"
 }
