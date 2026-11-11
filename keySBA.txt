@@ -1,6 +1,6 @@
 {
-  "key": "vftsubvsb",
-  "KeySystemSite": "https://lootdest.org/s?pjQ2CEhp",
+  "key": "zbbsbvvzg",
+  "KeySystemSite": "https://lootdest.org/s?j426WJ04",
   "TutorialUrl": "https://youtu.be/jcz3Q6ZHddE?si=EInejV9b5VCahzp0",
   "status": "active",
   "version": "1.0"
