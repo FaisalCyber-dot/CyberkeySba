@@ -1,6 +1,6 @@
 {
-  "key": "zbbsbvvzg",
-  "KeySystemSite": "https://lootdest.org/s?j426WJ04",
+  "key": "bfzggsghs",
+  "KeySystemSite": "https://lootdest.org/s?pSgbmOhv",
   "TutorialUrl": "https://youtu.be/jcz3Q6ZHddE?si=EInejV9b5VCahzp0",
   "status": "active",
   "version": "1.0"
